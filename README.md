@@ -44,3 +44,5 @@ Future work: Adding semantic features (topic cohesion, coherence) could further 
 Implement Transformer-based models (BERT, GPT) for improved scoring.
 Expand feature engineering to include cohesion, argument structure, and topic relevance.
 Fine-tune models using a larger and more balanced dataset.
+
+Corpus Reference: TOEFL iBT®. (2024) _Integrated Writing Rubric._ Retrieved from https://www.ets.org/toefl.html
